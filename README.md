@@ -17,8 +17,9 @@ This project is a Flask-based web application that serves as a to-do list manage
 - Stylish and responsive user interface with SCSS
 - Secure and scalable application
 
-The application will be available at `http://127.0.0.1:5000/`.
+The application will be available at `http://127.0.0.1:5000/` and can be deployed using PythonAnywhere.
 
 ## Additional Resources
 
 - https://learn.microsoft.com/en-us/training/modules/python-flask-build-ai-web-app/0-introduction
+- https://www.youtube.com/watch?v=45P3xQPaYxc
